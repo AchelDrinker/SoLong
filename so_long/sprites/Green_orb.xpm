@@ -1,0 +1,18 @@
+/* XPM */
+static char *c61f3f1c448b4fd2e70864c30fb505035yVhmRwaL10KSKLm[] = {
+/* columns rows colors chars-per-pixel */
+"7 7 5 1 ",
+"  c None",
+". c #14182E",
+"X c #63AB3F",
+"o c #FFEE83",
+"O c #F5FFE8",
+/* pixels */
+"  ...  ",
+" .ooo. ",
+".oOXXo.",
+".oXXXo.",
+".oXXXo.",
+" .ooo. ",
+"  ...  "
+};
